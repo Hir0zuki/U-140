@@ -22,7 +22,7 @@ Ana karakterimizin düşmanlarla savaşarak çıkışa ulaşmasını sağladığ
 
 ### Hedef Kitle
 - 13 yaş ve üstü oyuncular
-- Rogue-Like ve bulmaca sevenler
+- Platform ve bulmaca sevenler
 
 ### Product Backlog URL
 - [Backlog URL/Trello](https://trello.com/invite/b/p2E43aO1/ATTI672d56e95a7fdbd88bcddd49ad387eef9F288CC8/u-140)
@@ -68,6 +68,11 @@ Ana karakterimizin düşmanlarla savaşarak çıkışa ulaşmasını sağladığ
 - **Sprint Board Update:** Sprint Board ekran görüntüsü:
   
   ![Sprint Board Update](https://github.com/Hir0zuki/U-140/blob/main/images/sprint2.png)
+
+- **Ürün Durumu:** Ekran Görüntüleri:
+
+  ![Ekran görüntüsü](https://github.com/Hir0zuki/U-140/blob/main/images/1.png?raw=true)
+  ![Ekran görüntüsü](https://github.com/Hir0zuki/U-140/blob/main/images/3.png?raw=true)
 
   - **Sprint Review:** Görev dağılımı netleştirilmiştir ve bütün görevlere başlanmıştır. Proje tekrardan konuşulup kısıtlısüre neticesinde bazı yerlerden kısılmıştır ve yapılan işlerin birleştirilmesi 3. Sprinte bırakılmıştır. Katılımcılar: İrem, Baran, Sena
 
