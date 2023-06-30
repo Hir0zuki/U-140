@@ -52,3 +52,25 @@ Ana karakterimizin düşmanlarla savaşarak çıkışa ulaşmasını sağladığ
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımında değişiklik yapılmasına karar verilmiştir.
   - Ekip içi iletişimde yaşanan kopuklukların tekrar yaşanmaması için düzenli şekilde durum raporu verilip haftada en az 2 kez toplanılmasına karar verilmiştir.
+
+ ## Sprint 2
+- **Sprint Notları:** Toplantı notları, fikir alışverişleri, puanlar ve backlog itemleri açıklama kısmına eklendi.
+  
+  [Sprint Notları/Miro](https://miro.com/welcomeonboard/WGoxa25yWjB5Y0kyZG1LR3FnTkJ1R2pDVVBUQlBiUXZhdkJ0OGhyeEk0aGtMN2F3RThhVnlpNU5wQVYyY2pwUHwzNDU4NzY0NTU2OTcwODU0MzMzfDI=?share_link_id=868769972741)
+  
+- **Sprint içinde tamamlanması tahmin edilen puan:** 125 Puan
+
+- **Puan tamamlama mantığı:** Proje boyunca toplamda 300 puanlık bir backlog oluşturulmuştur. İlk sprintte 60 puanlık bir kısım tamamlanmıştır. 2. Sprintte verilen bütün görevlere başlanmıştır.
+
+- **Daily Scrum:** Daily Scrum, ilk sprinte göre daha iyi sağlanmıştır. Lakin araya bayram girmesi sebebiyle istenilen seviyede yapılamamıştır.
+  [Daily Scrum Görselleri / Word Belgesi](https://docs.google.com/document/d/1gOh7O5DB-334A3Zfw0VXmVcULwdkgJRwGzipTLLwKZQ/edit?usp=sharing)
+
+- **Sprint Board Update:** Sprint Board ekran görüntüsü:
+  
+  ![Sprint Board Update](https://github.com/Hir0zuki/U-140/blob/main/images/sprint2.png)
+
+  - **Sprint Review:** Görev dağılımı netleştirilmiştir ve bütün görevlere başlanmıştır. Proje tekrardan konuşulup kısıtlısüre neticesinde bazı yerlerden kısılmıştır ve yapılan işlerin birleştirilmesi 3. Sprinte bırakılmıştır. Katılımcılar: İrem, Baran, Sena
+
+- **Sprint Retrospective:**
+  - Hızlanmamız gerektiğine karar verilmiştir.
+  - Ekip içi istenilen iletişim tam olarak sağlanamamıştır. Bu nedenle daha sık iletişim için zorlanmasına karar verilmiştir.
