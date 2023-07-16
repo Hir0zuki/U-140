@@ -79,3 +79,32 @@ Ana karakterimizin düşmanlarla savaşarak çıkışa ulaşmasını sağladığ
 - **Sprint Retrospective:**
   - Hızlanmamız gerektiğine karar verilmiştir.
   - Ekip içi istenilen iletişim tam olarak sağlanamamıştır. Bu nedenle daha sık iletişim için zorlanmasına karar verilmiştir.
+
+
+ ## Sprint 3
+- **Sprint Notları:** Toplantı notları, fikir alışverişleri, puanlar ve backlog itemleri açıklama kısmına eklendi.
+  
+  [Sprint Notları/Miro](https://miro.com/welcomeonboard/WGoxa25yWjB5Y0kyZG1LR3FnTkJ1R2pDVVBUQlBiUXZhdkJ0OGhyeEk0aGtMN2F3RThhVnlpNU5wQVYyY2pwUHwzNDU4NzY0NTU2OTcwODU0MzMzfDI=?share_link_id=868769972741)
+  
+- **Sprint içinde tamamlanması tahmin edilen puan:** 115 Puan
+
+- **Puan tamamlama mantığı:** Proje boyunca toplamda 300 puanlık bir backlog oluşturulmuştur. Son sprintte birleştirme üzerine oynanmış ve proje başında belirlenen 300 puana ulaşılmıştır.
+
+- **Daily Scrum:** Daily Scrum, ilk sprinte göre daha iyi sağlanmıştır. Lakin araya bayram girmesi sebebiyle istenilen seviyede yapılamamıştır.
+  [Daily Scrum Görselleri / Word Belgesi](https://docs.google.com/document/d/1gOh7O5DB-334A3Zfw0VXmVcULwdkgJRwGzipTLLwKZQ/edit?usp=sharing)
+
+- **Sprint Board Update:** Sprint Board ekran görüntüsü:
+  
+  ![Sprint Board Update](https://github.com/Hir0zuki/U-140/blob/main/images/sprint3.png?raw=true)
+
+- **Ürün Durumu:** Ekran Görüntüleri:
+
+  ![Ekran görüntüsü](https://github.com/Hir0zuki/U-140/blob/main/images/update1.png?raw=true)
+  ![Ekran görüntüsü](https://github.com/Hir0zuki/U-140/blob/main/images/update2.png?raw=true)
+  ![Ekran görüntüsü](https://github.com/Hir0zuki/U-140/blob/main/images/update3.png?raw=true)
+
+  - **Sprint Review:** Yapılan işler birleştirilmiştir. Bu esnada github kısmında eksik bilgilerimizden dolayı sorun çıkmış ve bu durum bizi yavaşlatmıştır. 
+
+- **Sprint Retrospective:**
+  - Bazı özellikler süre yetmediği için projeden çıkarılmıştır.
+  - Aktif olan üyeler ellerinden geleni yapmışlardır.
