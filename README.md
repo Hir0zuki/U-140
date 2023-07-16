@@ -13,16 +13,15 @@ Oyun Uygulama Akademisi U-140 takımının projesidir.
 *Sonra güncellenecek*
 
 ### Ürün Açıklaması
-Ana karakterimizin düşmanlarla savaşarak çıkışa ulaşmasını sağladığımız bir oyundur. Çıkışa ulaşmaya çalışırken, birbirinden çeşitli bulmacaları çözmeye çalışacak, haritadaki mücevherler ve silahları toplayarak oyunda gelişebileceğiz.
+3 seviyeden oluşan, ana karakterimizin düşmanlardan kaçarak çıkışa ulaştığı eğlenceli bir platform oyunu.
 
 ### Ürün Özellikleri
-- 2D Rogue-Like
+- 2D Platform
 - Akıcı oynanış
-- Savaş ve Bulmaca
 
 ### Hedef Kitle
 - 13 yaş ve üstü oyuncular
-- Platform ve bulmaca sevenler
+- Platform sevenler
 
 ### Product Backlog URL
 - [Backlog URL/Trello](https://trello.com/invite/b/p2E43aO1/ATTI672d56e95a7fdbd88bcddd49ad387eef9F288CC8/u-140)
@@ -90,7 +89,7 @@ Ana karakterimizin düşmanlarla savaşarak çıkışa ulaşmasını sağladığ
 
 - **Puan tamamlama mantığı:** Proje boyunca toplamda 300 puanlık bir backlog oluşturulmuştur. Son sprintte birleştirme üzerine oynanmış ve proje başında belirlenen 300 puana ulaşılmıştır.
 
-- **Daily Scrum:** Daily Scrum, ilk sprinte göre daha iyi sağlanmıştır. Lakin araya bayram girmesi sebebiyle istenilen seviyede yapılamamıştır.
+- **Daily Scrum:** Daily Scrum, istenilen düzeyde yapılamamıştır ancak diğer 2 sprinte göre daha iyi yapılmıştır.
   [Daily Scrum Görselleri / Word Belgesi](https://docs.google.com/document/d/1gOh7O5DB-334A3Zfw0VXmVcULwdkgJRwGzipTLLwKZQ/edit?usp=sharing)
 
 - **Sprint Board Update:** Sprint Board ekran görüntüsü:
