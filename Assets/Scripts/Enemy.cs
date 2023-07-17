@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    [SerializeField] private float movementDistance;
-    [SerializeField] private float speed;
     [SerializeField] private float damage;
+    [SerializeField] private float speed;
+    [SerializeField] private float movementDistance;
     private bool movingLeft;
     private float leftEdge;
     private float rightEdge;
@@ -37,15 +37,22 @@ public class Enemy : MonoBehaviour
             if (transform.position.x < rightEdge)
             {
                 transform.position = new Vector3(transform.position.x + speed * Time.deltaTime, transform.position.y, transform.position.z);
-
             }
             else
             {
                 movingLeft = true;
                 flip();
-            }   
+            }
         }
+    }
 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Player")
+        {
+            collision.GetComponent<health>().TakeDamage(damage);
+
+        }
     }
 
     private void flip()
@@ -53,14 +60,8 @@ public class Enemy : MonoBehaviour
         Vector3 localScale = transform.localScale;
         localScale.x *= -1;
         transform.localScale = localScale;
-    }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.tag == "Player")
-        {
-            collision.GetComponent<health>().TakeDamage(damage);
-
-        }
     }
 }
+
+ 

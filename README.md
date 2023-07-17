@@ -10,7 +10,7 @@ Oyun Uygulama Akademisi U-140 takımının projesidir.
 - Pelinsu Şahin: Team Member/Developer
 
 ### Ürün İsmi
-*Sonra güncellenecek*
+Skyward Knight's Adventure
 
 ### Ürün Açıklaması
 3 seviyeden oluşan, ana karakterimizin düşmanlardan kaçarak çıkışa ulaştığı eğlenceli bir platform oyunu.
