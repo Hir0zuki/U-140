@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/*public class finishpoint : MonoBehaviour
+public class finishingpoint : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -11,4 +11,4 @@ using UnityEngine;
             scenecontroller.instance.nextlevel();
         }
     }
-}*/
+}

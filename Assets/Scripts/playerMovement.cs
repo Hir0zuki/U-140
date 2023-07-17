@@ -14,6 +14,9 @@ public class playerMovement : MonoBehaviour
     private BoxCollider2D coll;
     private SpriteRenderer Sprite;
     private Animator anim;
+
+    private Vector3 respawnpoint;
+    public GameObject falldetector;
     
     private enum MovementState { idle, Running, Jumping, falling }
     
@@ -23,6 +26,7 @@ public class playerMovement : MonoBehaviour
         coll = GetComponent<BoxCollider2D>();
         Sprite = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
+        respawnpoint = transform.position;
     }
 
     // Update is called once per frame
@@ -37,6 +41,16 @@ public class playerMovement : MonoBehaviour
         }
 
         UpdateAnimationState();
+
+        falldetector.transform.position = new Vector2(transform.position.x, falldetector.transform.position.y);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "FallDetector")
+        {
+            transform.position = respawnpoint;
+        }
     }
 
     private void UpdateAnimationState()
