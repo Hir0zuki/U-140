@@ -3932,6 +3932,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 855028828813448482, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -2260
+      objectReference: {fileID: 0}
+    - target: {fileID: 855028828813448482, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 82
+      objectReference: {fileID: 0}
     - target: {fileID: 855028828813448483, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
       propertyPath: playerHealth
       value: 
