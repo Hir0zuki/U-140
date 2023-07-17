@@ -2149,6 +2149,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03e06a759491fac4493b0d27931bb0e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &233044665 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5511269990248448368, guid: 98faea3e37b9e0c4c85edc16f413f0a7, type: 3}
+  m_PrefabInstance: {fileID: 1832280286}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 233044663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b38a1d1e1bded23459865ed3f7b6a315, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &274142085
 GameObject:
   m_ObjectHideFlags: 0
@@ -2588,6 +2599,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeroKnight_0
       objectReference: {fileID: 0}
+    - target: {fileID: 465597042664280928, guid: 4c3f23bc995a5064484ddb678c7bd58b, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 233044665}
     - target: {fileID: 465597042664280929, guid: 4c3f23bc995a5064484ddb678c7bd58b, type: 3}
       propertyPath: FallDetector
       value: 
@@ -2596,6 +2611,14 @@ PrefabInstance:
       propertyPath: falldetector
       value: 
       objectReference: {fileID: 1949122422}
+    - target: {fileID: 465597042664280931, guid: 4c3f23bc995a5064484ddb678c7bd58b, type: 3}
+      propertyPath: m_Size.y
+      value: 1.1947998
+      objectReference: {fileID: 0}
+    - target: {fileID: 465597042664280931, guid: 4c3f23bc995a5064484ddb678c7bd58b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.72945434
+      objectReference: {fileID: 0}
     - target: {fileID: 465597042664280933, guid: 4c3f23bc995a5064484ddb678c7bd58b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3217,6 +3240,22 @@ PrefabInstance:
       propertyPath: playerHealth
       value: 
       objectReference: {fileID: 2115008357}
+    - target: {fileID: 855028828876394455, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5511269990248448368, guid: 98faea3e37b9e0c4c85edc16f413f0a7, type: 3}
+    - target: {fileID: 855028828876394455, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: mainMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 855028829050275001, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5511269990248448368, guid: 98faea3e37b9e0c4c85edc16f413f0a7, type: 3}
+    - target: {fileID: 855028829050275001, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: restart
+      objectReference: {fileID: 0}
     - target: {fileID: 8755697144340810331, guid: fb6bddbdc0f59ed4db398b5146d77f48, type: 3}
       propertyPath: playerHealth
       value: 
